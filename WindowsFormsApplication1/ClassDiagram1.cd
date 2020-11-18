@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.Punter">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAgAAAAAAAAAgAyAAAAEAAAAAAIAABAAAAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jhony" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jhony.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horse_Race.Rider">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQEgAAAAAAAAQAAAAAKAAAAAAARAAAAAA=</HashCode>
+      <FileName>Horse_Rider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horse_Race.s">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAQAAAAgAAIAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Horse_hound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horse_Race.Bet_Horse">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Bet_Horse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Ben" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ben.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Andy" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Andy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
